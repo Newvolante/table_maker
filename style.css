@@ -1,0 +1,11 @@
+.inline {
+    display: inline;
+}
+
+.hidden {
+    display: none;
+}
+
+.active {
+    display: block;
+}
